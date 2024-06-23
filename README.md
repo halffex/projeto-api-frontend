@@ -2,7 +2,7 @@
 Projeto simples com uma API e um Frontend para cadastro de Usuários.
 
 # Iniciando projeto
-Antes de tudo precisa instale as dependências, digite o comando: 
+Antes de tudo instale as dependências, digite o comando: 
 ```
 npm install
 ```
