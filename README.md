@@ -2,20 +2,28 @@
 Projeto simples com uma API e um Frontend para cadastro de Usuários.
 
 # Iniciando projeto
-Antes de tudo precisa instalar as dependências, digite o comando: "npm install" em seguida inicie o servidor.
+Antes de tudo precisa instale as dependências, digite o comando: 
+```
+npm install
+```
+em seguida inicie o servidor. Para iniciar o servidor, dentro da pasta API digite o comando: 
+```
+node --watch server.js
+``` 
 
-Para iniciar o servidor, dentro da pasta API digite o comando: "node --watch server.js" 
+Para rodar o Frontend entre na pasta Frontend e depois na outra pasta e digite o comando:
+```
+npm run dev
+```
 
-Para rodar o Frontend entre na pasta Frontend e depois na outra pasta e digite o comando: "npm run dev"
+# Tecnologias usadas
 
-<h2>Tecnologias usadas</h2>
-
-# Backend
+## Backend
 <li>Express</li>
 <li>Prisma</li>
 <li>MongoDB</li>
 <li>Cors</li>
 
-# Frontend
+## Frontend
 <li>React + Vite</li>
 <li>Axios</li>
