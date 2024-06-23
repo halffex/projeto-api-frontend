@@ -6,7 +6,7 @@ Antes de tudo instale as dependências, digite o comando:
 ```
 npm install
 ```
-em seguida inicie o servidor. Para iniciar o servidor, dentro da pasta API digite o comando: 
+Em seguida inicie o servidor. Para iniciar o servidor, dentro da pasta API digite o comando: 
 ```
 node --watch server.js
 ``` 
