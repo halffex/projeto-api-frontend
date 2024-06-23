@@ -1,8 +1,21 @@
-# projeto-api-frontend
-Projeto simples com uma API, para cadastro de usuários, e um Frontend com a biblioteca React+Vite para enviar os dados.
+<h1>Projeto para Cadastro de Usuários</h1>
+Projeto simples com uma API e um Frontend para cadastro de Usuários.
 
-para rodar o server que está na pasta API só rodar o comando
-node --watch server.js
+# Iniciando projeto
+Antes de tudo precisa instalar as dependências, digite o comando: "npm install" em seguida inicie o servidor.
 
-para rodar o frontend entra na pasta Frontend e depois na outra pasta e roda o comando 
-npm run dev
+Para iniciar o servidor, dentro da pasta API digite o comando: "node --watch server.js" 
+
+Para rodar o Frontend entre na pasta Frontend e depois na outra pasta e digite o comando: "npm run dev"
+
+<h2>Tecnologias usadas</h2>
+
+# Backend
+<li>Express</li>
+<li>Prisma</li>
+<li>MongoDB</li>
+<li>Cors</li>
+
+# Frontend
+<li>React + Vite</li>
+<li>Axios</li>
