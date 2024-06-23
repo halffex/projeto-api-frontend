@@ -17,6 +17,7 @@ npm run dev
 ```
 
 # Tecnologias usadas
+Foi utilizado javascript tanto no back quanto no front
 
 ## Backend
 <li>Express</li>
