@@ -1,7 +1,7 @@
-<h1>Projeto para Cadastro de Usuários</h1>
+#Projeto para Cadastro de Usuários
 Projeto simples com uma API e um Frontend para cadastro de Usuários.
 
-# Iniciando projeto
+## Iniciando projeto
 Antes de tudo instale as dependências, digite o comando: 
 ```
 npm install
@@ -16,15 +16,15 @@ Para rodar o Frontend entre na pasta Frontend e depois na outra pasta e digite o
 npm run dev
 ```
 
-# Tecnologias usadas
+## Tecnologias usadas
 Foi utilizado javascript tanto no back quanto no front
 
-## Backend
+### Backend
 <li>Express</li>
 <li>Prisma</li>
 <li>MongoDB</li>
 <li>Cors</li>
 
-## Frontend
+### Frontend
 <li>React + Vite</li>
 <li>Axios</li>
